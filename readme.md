@@ -1,5 +1,5 @@
-# Voxel utilities
+# ShapeX
 
-Voxel utilities is an utility for create voxel shapes selecting in the lists.
+ShapeX is a shape maker with colors and shapes to select.
 
 But this project is new and can contain bugs. :neckbeard:
